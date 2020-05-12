@@ -70,10 +70,10 @@ anggota kepemimpinan proyek.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+Kode Etik ini diadaptasi dari [Perjanjian Covenant] [beranda], versi 1.4,
+tersedia di https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
-[homepage]: https://www.contributor-covenant.org
+[beranda]: https://www.contributor-covenant.org
 
-For answers to common questions about this code of conduct, see
+Untuk jawaban atas pertanyaan umum tentang kode etik ini, lihat
 https://www.contributor-covenant.org/faq
