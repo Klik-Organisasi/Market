@@ -57,16 +57,16 @@ selanjutnya didefinisikan dan diklarifikasi oleh pengelola proyek.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at fatidelfat@gmail.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+Contoh perilaku kasar, melecehkan, atau perilaku yang tidak dapat diterima mungkin
+dilaporkan dengan menghubungi tim proyek di fatidelfat@gmail.com. Semua
+keluhan akan ditinjau dan diselidiki dan akan menghasilkan respons itu
+dianggap perlu dan sesuai dengan keadaan. Tim proyek adalah
+wajib menjaga kerahasiaan berkenaan dengan reporter dari suatu insiden.
+Rincian lebih lanjut dari kebijakan penegakan khusus dapat diposting secara terpisah.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+Pengelola proyek yang tidak mengikuti atau menegakkan Kode Etik dengan baik
+iman mungkin menghadapi akibat sementara atau permanen sebagaimana ditentukan oleh orang lain
+anggota kepemimpinan proyek.
 
 ## Attribution
 
