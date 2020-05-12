@@ -77,3 +77,7 @@ tersedia di https://www.contributor-covenant.org/version/1/4/code-of-conduct.htm
 
 Untuk jawaban atas pertanyaan umum tentang kode etik ini, lihat
 https://www.contributor-covenant.org/faq
+
+#Translate
+
+[Translation Conduct](https://www.contributor-covenant.org/translations/)
