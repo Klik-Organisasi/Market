@@ -19,15 +19,19 @@ include:
 * Dengan anggun menerima kritik konstruktif
 * Berfokus pada apa yang terbaik bagi masyarakat
 * Menunjukkan empati terhadap anggota komunitas lainnya
+
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
- advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
- address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
+* Penggunaan bahasa atau citra seksual dan perhatian seksual yang tidak disukai atau
+ Rayuan
+* Komentar trolling, menghina / menghina, dan serangan pribadi atau politik
+* Pelecehan publik atau pribadi
+* Mempublikasikan informasi pribadi orang lain, seperti fisik atau elektronik
+ alamat, tanpa izin eksplisit
+* Perilaku lain yang secara wajar dapat dianggap tidak pantas dalam a
+ pengaturan profesional
+
+ could reasonably be considered inappropriate in a
  professional setting
 
 ## Our Responsibilities
