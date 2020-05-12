@@ -1,6 +1,6 @@
-# Contributor Covenant Code of Conduct
+# Kode Etik Perjanjian Kovenan
 
-## Our Pledge
+## Ikrar Kita
 
 Demi menumbuhkan lingkungan yang terbuka dan ramah, kami sebagai
 kontributor dan pengelola berjanji untuk berpartisipasi dalam proyek kami dan
