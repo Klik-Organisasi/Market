@@ -14,12 +14,11 @@ penampilan, ras, agama, atau identitas dan orientasi seksual.
 Examples of behavior that contributes to creating a positive environment
 include:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
-
+* Menggunakan bahasa yang ramah dan inklusif
+* Menghormati berbagai sudut pandang dan pengalaman
+* Dengan anggun menerima kritik konstruktif
+* Berfokus pada apa yang terbaik bagi masyarakat
+* Menunjukkan empati terhadap anggota komunitas lainnya
 Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
