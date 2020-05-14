@@ -22,3 +22,5 @@ Hy  Selamat Bergabung di Agen Marketing. Apakah Tujuan anda bergabung di HALAMA 
 📲 WA : 0857-5662-9725
 
 kami siap membantu Bisnis Anda
+
+![Kode](https://dev.azure.com/fatidelfat/fatidelfat/_apis/build/status/Pipelin%20Data%20SubOlshoop/fatidelfat-ASP.NET-CI)
