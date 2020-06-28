@@ -32,3 +32,6 @@ kami siap membantu Bisnis Anda
 # DOWNLOAD Apps
 
 [Apk Market](https://ibuildapp.com/test-your-app.php?76a3ef6482&code=83CFJ8&em&no_redirect)
+
+# Video
+[Toko Kami](https://github.com/Klik-Organisasi/Market/blob/master/VID_20200628_191843.mp4)
