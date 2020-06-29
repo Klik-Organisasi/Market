@@ -1,5 +1,5 @@
 # Market
--Sub Agen Untuk Melayani Bisnis Anda
+- Sub Agen Untuk Melayani Bisnis Anda
 Hy  Selamat Bergabung di Agen Marketing. Apakah Tujuan anda bergabung di HALAMA kami @Apa-Harapan-Kamu🎓
 
 ![Octocat](https://github.com/Klik-Organisasi/Market/blob/master/octocat.png)
@@ -12,12 +12,12 @@ Hy  Selamat Bergabung di Agen Marketing. Apakah Tujuan anda bergabung di HALAMA 
 
 #Hubungi kami
 
-#Kunjungi halaman
+# Kunjungi halaman
 ---
 
 [Halaman](https://fb.me/Pemasaran7)
 
-#Kirim Pesan halaman
+# Kirim Pesan halaman
 ---
 [Pesan](https://m.me/Pemasaran7)
 
@@ -25,7 +25,7 @@ Hy  Selamat Bergabung di Agen Marketing. Apakah Tujuan anda bergabung di HALAMA 
 
 📲 WA : 0857-5662-9725
 
-kami siap membantu Bisnis Anda
+- kami siap membantu Bisnis Anda
 
 ![Kode](https://dev.azure.com/fatidelfat/fatidelfat/_apis/build/status/Pipelin%20Data%20SubOlshoop/fatidelfat-ASP.NET-CI)
 
@@ -34,6 +34,7 @@ kami siap membantu Bisnis Anda
 [Apk Market](https://ibuildapp.com/test-your-app.php?76a3ef6482&code=83CFJ8&em&no_redirect)
 
 # Video
+
 [Toko Kami](https://github.com/Klik-Organisasi/Market/blob/master/VID_20200628_191843.mp4)
 
 
