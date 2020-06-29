@@ -35,3 +35,14 @@ kami siap membantu Bisnis Anda
 
 # Video
 [Toko Kami](https://github.com/Klik-Organisasi/Market/blob/master/VID_20200628_191843.mp4)
+
+
+<br/><i> Binggung Dengan Pembayaran💳 Bayar Di 👇 aja<i/>
+<script src="https://www.paypal.com/sdk/js?client-id=sb"></script>
+<script>paypal.Buttons().render('body');</script><br/>
+
+
+
+
+
+
